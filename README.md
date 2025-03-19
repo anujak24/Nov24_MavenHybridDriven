@@ -10,7 +10,7 @@
 ## 👨‍💻 Software Testing & Automation Projects:
 
 - **Selenium Test Automation Framework**  
-  - [Java-based Selenium Framework](https://github.com/yourusername/selenium-framework) with TestNG & Maven
+  - [Java-based Selenium Framework](https://github.com/anujak24/AnujaSeleniumAutomationMvn) with TestNG & Maven
 
 - **Jenkins CI/CD Pipeline for Automated Testing**  
   - [End-to-End CI/CD](https://github.com/yourusername/jenkins-pipeline) setup for running automation tests
