@@ -6,6 +6,12 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import base.ControlActions;
+import io.qameta.allure.Description;
+import io.qameta.allure.Link;
+import io.qameta.allure.Owner;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
+import io.qameta.allure.TmsLink;
 import pages.DashboardPage;
 import pages.LoginPage;
 
@@ -18,6 +24,12 @@ public class LoginTest {
 	}
 	
 	@Test
+    @Description("This test attempts to log into the website using a login and a password.")
+    @Severity(SeverityLevel.CRITICAL)
+    @Owner("Anuja Kannawar")
+    @Link(name = "Test Website", url = "https://dev.example.com/")
+    @TmsLink("TC-Login")
+
 	public void verifyLoginForValidCredentials() {
 		LoginPage loginPage = new LoginPage();
 		

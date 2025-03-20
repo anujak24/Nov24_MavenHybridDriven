@@ -1,0 +1,5 @@
+testscripts\smoke\ui\LibrayTest.class
+testscripts\smoke\functional\LoginTest.class
+testscripts\TestBase.class
+testscripts\smoke\functional\CreateQuestionTest.class
+testscripts\smoke\ui\DashboardTest.class
