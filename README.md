@@ -1,33 +1,41 @@
 # Hi, I'm Anuja! 👋
 
-## 🚀 QA Automation Engineer | Java | Selenium | CI/CD 
+Welcome to my repository! Here, I've shared my project that showcases Java Selenium automation with CI/CD integration. 🚀
 
-🔹 **11+ years of experience** in Software Testing & Automation  
-🔹 Skilled in **Selenium, Java, API Testing, Jenkins, Git, and Agile Methodologies**  
-🔹 Passionate about **Test Automation Frameworks and Continuous Integration**  
-🔹 Actively contributing to **QA & DevOps projects on GitHub**  
+## 🔹 About This Project
+This project demonstrates end-to-end test automation using Java, Selenium, and CI/CD tools like Jenkins and Maven. It highlights best practices for efficient and scalable test automation.
 
-## 👨‍💻 Software Testing & Automation Projects:
+Additionally, this repository includes a Hybrid Driven Framework using TestNG, which follows a traditional test case approach and integrates data reading from XLSX files for parameterized testing.
 
-- **Selenium Test Automation Framework**  
-  - [Java-based Selenium Framework](https://github.com/anujak24/AnujaSeleniumAutomationMvn) with TestNG & Maven
+## 🔹 Key Features
+- ✅ Selenium WebDriver automation
+- ✅ Continuous Integration & Continuous Deployment (CI/CD)
+- ✅ Maven for build management
+- ✅ Page Object Model (POM) design pattern
+- ✅ Page Factory Model
+- ✅ Hybrid Driven Framework using TestNG
+- ✅ Traditional test case approach
+- ✅ XLSX file integration for data-driven testing
+- ✅ TestNG for test execution & reporting
+- ✅ Jenkins pipeline integration
 
-- **Jenkins CI/CD Pipeline for Automated Testing**  
-  - [End-to-End CI/CD](https://github.com/yourusername/jenkins-pipeline) setup for running automation tests
+## 🔹 Skills Showcased
+- Exploratory testing
+- Risk analysis
+- Critical thinking
+- Bug investigation techniques
 
-## 📌 Technical Skills:
+## 🔹 Contributing
+Feel free to fork this repository, open issues, or submit pull requests to enhance the project. Contributions are always welcome! 😊
 
-- **Languages & Tools:** Java, Selenium WebDriver, TestNG, Maven, SQL, Git, Jenkins
-- **Frameworks:** Hybrid Driven, Page Object Model (POM)
-- **DevOps & CI/CD:** GitHub Actions, Jenkins Pipelines
-- **Project Management:** Jira, Zephyr, Agile & Scrum Practices
+### 🔒 Contributor Permissions
+- Contributors can **fork** this repository and make changes to their own copy.
+- They can submit **pull requests** for improvements, which will be reviewed before merging.
+- Contributors **cannot directly modify or delete** this repository unless given explicit write access.
+- Only repository **owners and admins** have permission to delete or make direct changes.
 
-## 🤝 Connect with me:
+## 🔹 Connect With Me
+📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/yourusername)  
-
----
-
-📫 **Email**: kannawaranuja@gmail.com  
-💡 **Let's collaborate on QA Automation & DevOps projects!** 🚀
+Happy testing! 🧪✨
